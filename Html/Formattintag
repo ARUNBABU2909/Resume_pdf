@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>headingtag</title>
+</head>
+<body style="background-color: chartreuse;">
+    <h1>WELCOME TO THE STS</h1>
+    <h2>WELCOME TO THE STS</h2>
+    <h3>WELCOME TO THE STS</h3>
+    <h4>WELCOME TO THE STS</h4>
+    <h5>WELCOME TO THE STS</h5>
+    <h6>WELCOME TO THE STS</h6>
+    <img src="c:\Users\vicky\Pictures\Screenshots\Screenshot (2).png" alt="Screenshotimage" style="width: 200px;height: 100px;"><br>
+
+    <p>Lorem <mark>ipsum dolor sit amet, </mark>consectetur adipisicing elit.  <span style="color: red;">Harum dolorem doloremque id aspernatur voluptatum, </span>possimus eaque laboriosam vero ab, <del>incidunt eum, non laudantium numquam quae obcaecati</del> optio ullam iure! Minima.</p>
+<hr>
+<footer style="text-align: center;">@copyright STS</footer>
+</body>
+</html>
