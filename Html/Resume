@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ArunResume</title>
+</head>
+<body>
+    <h2 style="text-align: center;">ARUN BABU T M</h2>
+   <pre style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Email:arun@gmail.com                                                                                                                                                Phone no:8248656178 </pre>
+
+
+    <p style="background-color: yellow; font-weight: bolder; font-family: serif;">Carrer Objective</p>
+ <p>To work in a challaneging enviroment and keep adding values to the growth of the organization and keep adding values to the growth of the organization</p>
+<hr>
+<h3 style="background-color: yellow;">
+    Educational Detals
+</h3>
+<center>
+<table border="3px" style="background-color: bisque; height: 400px; text-align: center; padding: 20px;"width="800px">
+    <tr>
+        <th>Course</th>
+        <th>Board/Universty</th>
+        <th>Eduactional & instiution</th>
+    </tr> 
+    <tr>
+        <td>Bsc(cs)</td>
+        <td>Kmaraj Universty</td>
+        <td>Sourashtra college</td>
+        
+    </tr>
+    </tr>
+    </tr>
+    <tr>
+        <td>HSC</td>
+        <td>State Board</td>
+        <td>st marys Hr sec school</td>
+
+    </tr>
+    </tr>
+    <tr>
+        <td>SSLC</td>
+        <td>State Board</td>
+        <td>st marys Hr sec school</td>
+
+    </tr>
+
+</table>
+</center>
+<h3 style="background-color: yellow;">Technical Skills</h3>
+<ul><li><pre style="font-family: 'Times New Roman', Times, serif;">Operating System:                       Windows,Macos</pre></li>
+<li><pre style="font-family: 'Times New Roman', Times, serif">Programming Lnaguages:            Html,css,js,python</pre></li>
+<li><pre style="font-family: 'Times New Roman', Times, serif">Database:                                       Mongo Db,</pre></li>
+<li><pre style="font-family: 'Times New Roman', Times, serif">IDE:                                             VS code</pre></li>
+</ul>
+<h3 style="background-color: yellow;">Project Experience</h3>
+<ul>
+    <li>Done main project on "Online Grocery Store " using HTML,CCS,JS,php,Mysql</li>
+    <li>Done Internship at Yesem events pvt ltd</li>
+
+</ul>
+</body>
+</html>
