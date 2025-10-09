@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student details</title>
+</head>
+<body>
+    <h2 style="color: red;">STUDNET INFORMATION</h2>
+   <table border="2px"width="1400px" style="border-color:crimson;font-size: larger;">
+     <tr>
+        <th>Name</th>
+        <th>Mail</th>
+        <th>Mobile No</th>
+        <th>Address</th>
+        <th>City</th>
+    </tr>
+    <tr>
+        <td>Arun Babu tm</td>
+        <td>Arun@gmail.com</td>
+        <td>45678906543</td>
+        <td>Avaniyapuram</td>
+        <td>Madura</td>
+    </tr>
+    </tr>
+    <tr>
+        <td>Arun B tm</td>
+        <td>Varun@gmail.com</td>
+        <td>9876563457</td>
+        <td>villapuram</td>
+        <td>Madurai</td>
+    </tr>
+    </tr>
+    <tr>
+        <td>  Babu tm</td>
+        <td>Arun@gmail.com</td>
+        <td>45678906543</td>
+        <td>periyaer</td>
+        <td>Madura</td>
+    </tr>
+    </tr>
+    <tr>
+        <td>Aruna tm</td>
+        <td>Arun@gmail.com</td>
+        <td>45678906543</td>
+        <td>Goripalayam</td>
+        <td>Madurai</td>
+    </tr>
+    </tr>
+    <tr>
+        <td>Arun Babu tm</td>
+        <td>Arun@gmail.com</td>
+        <td>45678906543</td>
+        <td>Avaniyapuram</td>
+        <td>Madura</td>
+    </tr>
+   </table><br><br><br>
+   <h2 style="color:red">Educational Information</h2>
+   <table border="2px" width="1400" style="font-size: larger;border-color: chocolate;">
+    <tr>
+        <th>course</th>
+        <th>Board/university</th>
+        <th>Educational instiution</th>
+        <th>Year of pass</th>
+        <th>% of Marks</th>
+    </tr>
+    <tr>
+        <td>Bsc(cs)</td>
+        <td>Maduraikamaraj</td>
+        <td>sourashtra college</td>
+        <td>2025</td>
+        <td>75%</td>
+    </tr>
+    </tr>
+    <tr>
+        <td>HSC</td>
+        <td>State Board</td>
+        <td>ST mary's hr sec school</td>
+        <td>2022</td>
+        <td>75%</td>
+    </tr>
+    </tr>
+    <tr>
+        <td>SSLC</td>
+        <td>State Board</td>
+        <td>ST mary's hr sec school</td>
+        <td>2020</td>
+        <td>75%</td>
+    </tr>
+   </table>
+   <br><br><br>
+       <h2>Intrests</h2>
+
+   <ul type="square">
+    <li>Drawing</li>
+    <li>Photography</li>
+    <li>Designs</li>
+    <li>Programming</li>
+    <li>Computer Science</li>
+   </ul>
+   <h2>Extracurricullar</h2>
+   <ul>
+    <li>Recycling Club</li>
+    <li>Gardening Club</li>
+    <li>Book Club</li>
+   </ul>
+   <table border="2" width="600">
+    <tr>
+        <td colspan="2" style="text-align: center;">STUDENT INFORMATION</td>
+    </tr>
+    <tr>
+        <td>
+            ARUNBABU T M
+        </td>
+        <td rowspan="2">
+            arunbabutm55@gmal.com
+        </td>
+    </tr>
+    <tr>
+        <td> ARUN KUMAR</td>
+    </tr>
+    <tr>
+        <td>
+          Phone No
+        </td>
+        <td rowspan="2">8248656178
+        </td>
+    </tr>
+    <tr>
+        <td>Phone No</td>
+    </tr>
+   
+
+   </table>
+   <dl>
+    <dt style="font-size: larger;"><b>Bsc computer Science</b></dt>
+    <dd>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis laboriosam id suscipit, dignissimos eius libero iste ipsa rem dicta? Neque ipsa facere veritatis cum voluptatibus illum, obcaecati accusantium ullam dicta.</dd>
+   </dl>
+</body>
+</html>
