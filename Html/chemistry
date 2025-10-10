@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <table border="1">
+      <tr style="background-color: gray;">
+        <th>Name</th>
+        <th>Formula</th>
+        <th>Where is it found?</th>
+      </tr>
+      <tr>
+        <td>Sodium hydroxide (Caustic soda)</td>
+        <td>NaOH</td>
+        <td>oven cleaners, in the lab.</td>
+      </tr>
+      <tr>
+        <td>Calcium hydroxide</td>
+        <td>Ca(OH)<sub>2</sub></td>
+        <td>Soil line, limewater</td>
+      </tr>
+      <tr>
+        <td>Magnesium oxide(magnesia)</td>
+        <td>MgO</td>
+        <td>Indigesstion tablets</td>
+      </tr>
+      <tr>
+        <td>Calcium carbonate</td>
+        <td>CaCO <sub>3</sub></td>
+        <td>Limestone, soil lime</td>
+      </tr>
+      <tr>
+        <td>Sodium hydrocorbanate(bicarbonate)</td>
+        <td>NaHCO <sub>3</sub></td>
+        <td>Baking powder</td>
+      </tr>
+      <tr>
+        <td>Ammonia </td>
+        <td>
+            Nh <sub>3</sub>
+        </td>
+        <td>Cleaing fluid, in the lab </td>
+      </tr>
+    </table>
+  </body>
+</html>
