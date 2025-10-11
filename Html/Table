@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <title>Document</title>
+  </head>
+  <body>
+    <table 
+      cellpadding="4"
+      border="30"
+      wiidth="800px"
+      cellspacing="4"
+      style="background-color: darkslategrey;border-radius: 50px;"
+      
+    >
+    <tr>
+        <td colspan="5"><h1 style="text-align: center;">Task 1</h1></td>
+    </tr>
+      <tr>
+        <td width="100" height="100">
+          <marquee behavior="" direction="left">HI</marquee>
+        </td>
+        <td width="100" height="100">
+          <marquee behavior="" direction="down" style="text-align: center;">HI</marquee>
+        </td>
+        <td width="100" height="100">
+          <marquee behavior="" direction="right">HI</marquee>
+        </td>
+      </tr>
+      <tr>
+        <td width="100" height="100"> 
+          <marquee behavior="" direction="left">HI</marquee>
+        </td>
+        <td width="100" height="100">
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="hiimage"
+            width="100"
+            height="100"
+
+            
+          >
+        </td>
+        <td width="100" height="100">
+          <marquee behavior="" direction="right">HI</marquee>
+        </td>
+      </tr>
+      <tr>
+        <td width="100" height="100">
+          <marquee behavior="" direction="left" >HI</marquee>
+        </td>
+        <td width="100" height="100">
+          <marquee behavior="" direction="up"style="text-align: center;">HI</marquee>
+        </td>
+        <td width="100" height="100">
+          <marquee behavior="" direction="right">HI</marquee>
+        </td>
+      </tr>
+    </table><br><br><br><br><br>
+
+    <center>
+    <table cellspacing="20" style="background-color:darkgrey;border-radius: 50px;">
+        <tr>
+            <td colspan="10">    <h1 style="text-align: center;">HI This is My Chess Board</h1>
+</td>
+        </tr>
+      <tr>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50">
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50">
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+          <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                    <td style="background-color: white" width="50" height="50"></td>
+
+      </tr>
+      <tr>
+                   <td style="background-color: white" width="50" height="50"></td>
+                    <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                        <td style="background-color: white" width="50" height="50"></td>
+                <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                   <td style="background-color: white" width="50" height="50"></td>
+                    <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                        <td style="background-color: white" width="50" height="50"></td>
+                <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+            
+
+      </tr>
+      <tr>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+          <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                    <td style="background-color: white" width="50" height="50"></td>
+
+      </tr>
+      <tr>
+                   <td style="background-color: white" width="50" height="50"></td>
+                    <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                        <td style="background-color: white" width="50" height="50"></td>
+                <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                   <td style="background-color: white" width="50" height="50"></td>
+                    <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                        <td style="background-color: white" width="50" height="50"></td>
+                <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+            
+
+      </tr>
+      <tr>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+          <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                    <td style="background-color: white" width="50" height="50"></td>
+
+      </tr>
+      <tr>
+                   <td style="background-color: white" width="50" height="50"></td>
+                    <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                        <td style="background-color: white" width="50" height="50"></td>
+                <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                   <td style="background-color: white" width="50" height="50"></td>
+                    <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                        <td style="background-color: white" width="50" height="50"></td>
+                <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+      </tr>
+      <tr>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+        <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td style="background-color: white" width="50" height="50"></td>
+          <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                    <td style="background-color: white" width="50" height="50"></td>
+
+      </tr>
+      <tr>
+                   <td style="background-color: white" width="50" height="50"></td>
+                    <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                        <td style="background-color: white" width="50" height="50"></td>
+                <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                   <td style="background-color: white" width="50" height="50"></td>
+                    <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+                        <td style="background-color: white" width="50" height="50"></td>
+                <td>
+                <img src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp" alt="baloon" width="50" height="50">
+            </td>
+      </tr>
+</center>
+    </table>
+  <br><br><br><br><br><br><br>
+  <table border="2" cellspacing="10" style="background-color: cadetblue;border-radius: 23px;" >
+    <tr>
+        <td colspan="2">    <h1 style="text-align: center;">This is My Audio</h1>
+</td>
+    </tr>
+    <tr>
+    <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td>
+            <audio src="C:\Users\vicky\Desktop\HTML\AUD-20190705-WA0097.m4a" controls width="200" height="200"></audio>
+        </td>
+    </tr>
+    <tr>
+    <td>
+          <img 
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td>
+            <audio src="C:\Users\vicky\Desktop\HTML\AUD-20190705-WA0097.m4a"width="200" height="200" controls ></audio>
+        </td>
+    </tr>
+    <tr>
+    <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td>
+            <audio src="C:\Users\vicky\Desktop\HTML\AUD-20190705-WA0097.m4a"width="200" height="200" controls ></audio>
+        </td>
+    </tr>
+    <tr>
+    <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td>
+            <audio src="C:\Users\vicky\Desktop\HTML\AUD-20190705-WA0097.m4a"width="200" height="200" controls ></audio>
+        </td>
+    </tr>
+    <tr>
+    <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td>
+            <audio src="C:\Users\vicky\Desktop\HTML\AUD-20190705-WA0097.m4a"width="200" height="200" controls ></audio>
+        </td>
+    </tr>
+    <tr>
+    <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td>
+            <audio src="C:\Users\vicky\Desktop\HTML\AUD-20190705-WA0097.m4a"width="200" height="200" controls ></audio>
+        </td>
+    </tr>
+    <tr>
+    <td>
+          <img
+            src="C:\Users\vicky\Desktop\HTML\assests\OIP.webp"
+            alt="baloon"
+            width="50"
+            height="50"
+          >
+        </td>
+        <td>
+            <audio src="C:\Users\vicky\Desktop\HTML\AUD-20190705-WA0097.m4a"width="200" height="200" controls ></audio>
+        </td>
+    </tr>
+  </table>
+  </body>
+</html>
