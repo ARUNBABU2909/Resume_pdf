@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+    <img src="scope.webp" alt="scope" width="800" height="200" style=""></center>
+    <pre
+      style="
+        color: blue;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+          'Lucida Sans', Arial, sans-serif;
+        font-size: x-large;
+        font-weight: bolder;
+      "
+    >
+    <a href="about.html" style="font-size: larger;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">About</a>                                             <a href="Gallery.html" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: larger;">Courses</a>                                                                  <a href="Contact.html" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: larger;">Contact</a>
+ </pre>
+    
+<h1>
+    A Few Words About
+Our Team
+We have a well experience & dedicated team 
+</h1><br><br><br>
+<h2>Locations <br>
+We have our presence in three major locations in Tamil Nadu, India
+</h2>
+<h2>
+Services <br>
+We provide the best of Consulting , Placement & IT Training Services.
+</h2>
+<h2>
+Track Record <br>
+We have great proven track record to showcase our portfolio to our clients
+</h2>
+<h2>
+24/7 Support <br>
+We have dedicated support team who listen to your quires & resolve accordingly
+</h2>
+</center>
+
+</body>
+</html>
