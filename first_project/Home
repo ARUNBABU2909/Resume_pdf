@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <center>
+      <img src="scope.webp" alt="scope" width="800" height="200">
+    </center>
+    <pre
+      style="
+        color: blue;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+          'Lucida Sans', Arial, sans-serif;
+        font-size: x-large;
+        font-weight: bolder;
+      "
+    >
+    <a href="about.html" style="font-size: larger;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">About</a>                                             <a href="Gallery.html" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: larger;">Courses</a>                                                                  <a href="Contact.html" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: larger;">Contact</a>
+ </pre>
+    <h2>
+      <b>Consulting</b> <br />
+
+      We are the fastest growing IT Consulting company which focus on services
+      helping organizations better understand emerging technologies & implement
+      Agile design principles.
+    </h2>
+    <h2>
+      <b>placements</b> <br />
+      We are not only focusing on IT Training & Consulting but also on placing
+      the right candidates for the right job. Our placement track records shows
+      what we say & deliver.
+    </h2>
+    <h2>
+      IT Training <br />
+      We are specialize in training on niche & emerging technologies like IoT,
+      Data Science, AI, Bigdata, Cloud Computing, Quantum Computing, DevOps are
+      few to mention.
+    </h2>
+    <h3>
+      Define, Design and Execute IT Strategies that drive business growth.
+      <h1>Why Choose Us?</h1>
+      <p style="color: blue; font-size: larger">
+        Companies drive competitive advantage and growth by leveraging these
+        innovations. STS IT Consulting services help organizations better
+        understand emerging technologies, implement Agile design principles and
+        take a strategic approach to adopting tools and methodologies. Using a
+        holistic approach, we help you define, design and execute strategies
+        that optimize costs and quality while creating new revenue streams.
+      </p>
+    </h3>
+    
+  </body>
+</html>
