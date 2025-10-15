@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center>
+          <img src="scope.webp" alt="scope" width="800" height="200" >
+</center>
+    
+    <center>
+    <pre
+      style="
+        color: blue;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+          'Lucida Sans', Arial, sans-serif;
+        font-size: x-large;
+        font-weight: bolder;
+      "
+    >
+    <a href="about.html" style="font-size: larger;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">About</a>                                             <a href="Gallery.html" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: larger;">Courses</a>                                                                  <a href="Contact.html" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: larger;">Contact</a>
+ </pre>
+    
+<h1>
+    <form action="">
+   <fieldset>
+        <legend style="font-size: xx-large; text-align: center; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-weight: bolder;">
+            Contact
+        </legend>
+        <center>
+        <table style="text-align:center;"cellspacing="60">
+            <tr>
+            <td style="font-size: xx-large;">
+                Name
+            </td>
+            <td style="font-size: xx-large;">
+                <input type="email" placeholder="Enter your Name" style=" font-size:medium; width: 200px; height: 50px; background-color:cornsilk;border-radius: 15px;">
+            </td>
+            </tr><br>
+            <tr>            <td style="font-size: xx-large;">
+                Number
+            </td>
+            <td style="font-size: xx-large;">
+                <input type="Number" placeholder="Enter your Number" style=" font-size:medium; width:200px; height: 50px; background-color:cornsilk;border-radius: 15px;">
+            </td>
+            </tr>
+        <tr><td></td>
+        <td>
+            <button  style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size:xx-large " onclick="window.location.href='Home.html'; alert('thankyou for contacing we will contact you soon')" >Submit</button>
+        </td></tr>
+        </table>
+    </center>
+    </fieldset>
+    </form>
+    <footer> 
+        <h3 style="text-align: center;">&copy;All Rights are Resereved || 2025 </h3>
+        <center>
+        <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3930.0091848529755!2d78.098551!3d9.933192499999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b00c500453beca7%3A0xd784f008baff58!2sScopetech%20Software%20Solution!5e0!3m2!1sen!2sin!4v1760415101056!5m2!1sen!2sin" width="300" height="250" style="border: 2px;;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </center>
+    </footer>
+</body>
+</html>
