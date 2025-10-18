@@ -1,0 +1,54 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ID topics</title>
+    <style>
+        .hi{
+            color: rgb(212, 24, 24);
+        }
+        #hi{
+            color: blue;
+        }
+        *{
+            background-color:blueviolet;
+        }
+        h1{
+            color: chartreuse;
+        }
+        h1,p{
+            color:yellowgreen;
+        }
+        h2 p:nth-child(2){
+            color:chocolate
+        }
+    </style>
+ </head>
+ <body>
+    <h1 class="hi">
+        HI i am is Class selector
+    </h1>
+    <h1 id="hi">
+        HI i am is id selector  i am second priority
+    </h1>
+    <h1>
+        HI i am is Tag selector last priority
+    </h1>
+    <h1>
+        <p>
+            HI i am is group selector
+        </p>
+    </h1>
+    <h2>
+        <p>
+            Hi i am is nth child selector
+        </p>
+        <p>
+          Hi i am is nth child selector
+
+        </p>
+    </h2>
+    
+ </body>
+ </html>
